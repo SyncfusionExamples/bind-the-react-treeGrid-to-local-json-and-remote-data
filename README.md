@@ -17,13 +17,12 @@ To run this application, clone the `bind-the-react-treeGrid-to-local-json-and-re
 
 ## Topics
 
-This repository exposes the following topics to improve discoverability and to meet metadata requirements:
+This repository demonstrates how to implement TreeGrid data source binding, including:
 
-- data-binding in treegrid
-- local-json
-- remote-data
+-Local JSON data binding
+-Remote data binding
 
-These topics reflect the repository's focus on data-binding examples for the Syncfusion React TreeGrid component, including both local JSON and remote (AJAX) data sources. Repository hosts and tooling can use these metadata tags to surface the sample for developers looking for TreeGrid, data-binding, or Syncfusion TreeGrid React samples.
+This repository focus on data-binding examples for the Syncfusion React TreeGrid component, including both local JSON and remote (AJAX) data sources. 
 
 
 ## About this repository
