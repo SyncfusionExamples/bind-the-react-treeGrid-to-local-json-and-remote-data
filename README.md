@@ -15,7 +15,7 @@ Make sure that you have the lastest versions of NodeJS and Visual Studio Code in
 
 To run this application, clone the `bind-the-react-treeGrid-to-local-json-and-remote-data` repository and open it in Visual Studio Code. Install the necessary packages with `npm install`, then start the development server with `npm start`. The app will run locally (usually at `http://localhost:3000`) where you can explore the TreeGrid demos and examples.
 
-## Topics
+## Project overview
 
 This repository demonstrates how to implement TreeGrid data source binding, including:
 
