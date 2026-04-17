@@ -23,7 +23,7 @@ Before starting, ensure you have the following installed:
 Clone and set up the project:
  
 ```
-git clone bind-the-react-treeGrid-to-local-json-and-remote-data
+git clone https://github.com/SyncfusionExamples/bind-the-react-treeGrid-to-local-json-and-remote-data
 cd bind-the-react-treeGrid-to-local-json-and-remote-data
 npm install
 ```
