@@ -1,32 +1,52 @@
-
-# Bind the React TreeGrid to local JSON and remote data 
-
-A quick-start project that helps you to bind local and remote data to the React Tree Grid component. This project also contains simple code to bind data to TreeGrid through external AJAX request.
-
-Documentation: https://ej2.syncfusion.com/react/documentation/treegrid/data-binding/
-
-Online examples: https://ej2.syncfusion.com/react/demos/#/material/treegrid/localdata
-
-## Project prerequisites
-
-Make sure that you have the lastest versions of NodeJS and Visual Studio Code installed on your machine before starting to work on this project.
-
-## How to run this application?
-
-To run this application, clone the `bind-the-react-treeGrid-to-local-json-and-remote-data` repository and open it in Visual Studio Code. Install the necessary packages with `npm install`, then start the development server with `npm start`. The app will run locally (usually at `http://localhost:3000`) where you can explore the TreeGrid demos and examples.
-
-## Project overview
-
-This repository demonstrates how to implement TreeGrid data source binding, including:
-
--Local JSON data binding
--Remote data binding
-
-This repository focus on data-binding examples for the Syncfusion React TreeGrid component, including both local JSON and remote (AJAX) data sources. 
-
-
-## About this repository
-
-This sample app demonstrates data binding techniques for the Syncfusion React TreeGrid component using both local JSON and remote data sources. It includes minimal example code to show how to initialize the TreeGrid, configure columns, and fetch data through AJAX requests. The project is suitable as a starting point for developers who want to integrate the TreeGrid into larger React applications, and it is organized so you can quickly locate the main app code under `src/` and the sample data in `src/datasource.js`.
-
-
+# Bind EJ2 React TreeGrid to local and remote data
+ 
+## Repository Description
+A practical demonstration of implementing the Syncfusion EJ2 TreeGrid component in React applications with local and remote data binding.
+ 
+## Overview
+This repository provides a comprehensive example of using the EJ2 TreeGrid component data binding in React applications.
+ 
+## Features
+- **TreeGrid Component**: Integrated Syncfusion EJ2 TreeGrid component
+- **Data Binding**: Local JSON and remote data binding
+ 
+## Project Prerequisites
+Before starting, ensure you have the following installed:
+ 
+- **Node.js**: Latest stable version
+- **Visual Studio Code**: Latest version recommended
+- **npm**: Node Package Manager (included with Node.js)
+- Basic knowledge of React and JavaScript
+ 
+## Installation
+ 
+Clone and set up the project:
+ 
+```
+git clone bind-the-react-treeGrid-to-local-json-and-remote-data
+cd bind-the-react-treeGrid-to-local-json-and-remote-data
+npm install
+```
+ 
+## Running the Application
+ 
+Start the development server:
+ 
+```
+npm start
+```
+ 
+The application will open in your default browser. Any changes you make to the source files will automatically reload the application.
+ 
+## Examples
+ 
+Explore Syncfusion EJ2 TreeGrid data binding examples:
+https://ej2.syncfusion.com/react/demos/#/tailwind3/treegrid/localdata
+https://ej2.syncfusion.com/react/demos/#/tailwind3/treegrid/remote-data
+https://ej2.syncfusion.com/react/demos/#/tailwind3/treegrid/selfreference
+https://ej2.syncfusion.com/react/demos/#/tailwind3/treegrid/custom-binding
+ 
+## Documentation
+ 
+For detailed information and configuration options:
+https://ej2.syncfusion.com/react/documentation/treegrid/data-binding/
